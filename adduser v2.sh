@@ -36,6 +36,6 @@ then
 	done
 
 else
-	echo " !!! Arquiro não encontrado ou inexistente !!!"
+	echo " !!! Arquivo não encontrado ou inexistente !!!"
 	exit
 fi
